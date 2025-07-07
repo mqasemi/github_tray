@@ -1,2 +1,3 @@
 my first file        
 add new branch 1
+add new branch 2
